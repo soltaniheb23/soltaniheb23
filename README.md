@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, I'm Iheb 👋
+Junior Full-Stack Developer in Hamburg
 
-<!--
-**soltaniheb23/soltaniheb23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## What I work with
+React · Node.js · Express · MongoDB · Git · Docker
 
-Here are some ideas to get you started:
+## Learning right now
+TypeScript · NestJS · PostgreSQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+- [Project name](link): one line on what it does and the stack
+
+## Contact
+LinkedIn: your link · soltaniheb@gmail.com
